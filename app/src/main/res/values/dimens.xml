@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Высота каждого элемента списка -->
+    <dimen name="list_item_height">88dp</dimen>
+
+    <!-- Отступы экрана по умолчанию в соответствии с рекомендациями Android Design. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

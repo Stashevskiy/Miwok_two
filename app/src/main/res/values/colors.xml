@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Основной темный цвет приложения (показаный в статус баре приложения) -->
+    <color name="colorPrimaryDark">#2F1D1A</color>
+
+    <!-- Основной цвет приложения (показаный в статус баре приложения) -->
+    <color name="colorPrimary">#4A312A</color>
+
+    <!-- Цвет для акцента (кнопки и т.д.) -->
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Фоновый цвет приложения -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Фоновый цвет для категории чисел -->
+    <color name="category_numbers">#FD8E09</color>
+
+    <!-- Фоновый цвет для категории членов семьи -->
+    <color name="category_family">#379237</color>
+
+    <!-- Фоновый цвет для категории цветов -->
+    <color name="category_colors">#8800A0</color>
+
+    <!-- Фоновый цвет для категории фраз -->
+    <color name="category_phrases">#16AFCA</color>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <!-- Название для приложения. [CHAR LIMIT = 12] -->
+    <string name="app_name">Miwok</string>
+
+    <!-- Название категории фраз [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Название категории цветов [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Название категории чисел [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Название категории членов семьи [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
